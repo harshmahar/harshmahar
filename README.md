@@ -2,8 +2,7 @@
 <h3 align="center"> Aspiring Data Analyst | Analytical Thinker | Insightful Solutions for Data-Driven Success</h3>
 
 <h1 align="center">
- <img src='URL' title="Meme" alt="Please refresh the page if the meme doesn't show up."/>
-
+ <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png"/>
 </h1>
 
 
