@@ -4,9 +4,7 @@
 <h1 align="center">
  <img src="https://github.com/princekr301/princekr301/blob/main/Linkedin_Heading.png"/>
 </h1>
-```
-![Visitor Count](https://profile-counter.glitch.me/{YOUR USER}/count.svg)
-```
+
 
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=princekr301&label=Profile%20views&color=0e75b6&style=flat" alt="princekr301" /> </p>
